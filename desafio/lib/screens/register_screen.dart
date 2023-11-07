@@ -1,4 +1,3 @@
-// main.dart
 import 'package:desafio/stores/state.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
